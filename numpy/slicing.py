@@ -9,10 +9,10 @@ image = np.array(
 # show the whole matrix
 print(image)
 
-# show the second row of matrix
+# show the 2nd row of matrix
 print(image[1])
 
-# show  the third column
+# show  the 3rd column
 print(image[:, 2])
 
 # show the elements from 2nd row to 3rd row and 2nd column to 3rd column
