@@ -15,6 +15,6 @@ print(image[1])
 # show  the third column
 print(image[:, 2])
 
-# show the elements from second row to third row and second column to third column
-# also crop the image
+# show the elements from 2nd row to 3rd row and 2nd column to 3rd column
+# also crop the image 
 print(image[1:3, 1:3])
