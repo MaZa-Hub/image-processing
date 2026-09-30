@@ -15,7 +15,7 @@ image = np.array(
 )
 
 # show image
-plt.imshow(image, cmap="grey")
+plt.imshow(image, cmap="gray")
 plt.show()
 
 
