@@ -11,3 +11,4 @@ print(image)
 print(image[0, 2])
 
 # show the matrix dimension
+print(image.shape)
