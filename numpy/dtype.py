@@ -1,4 +1,4 @@
-# import numpy as np
+# import numpy lib
 import numpy as np
 
 # define image
