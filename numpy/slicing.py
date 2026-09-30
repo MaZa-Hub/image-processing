@@ -1,4 +1,4 @@
-# import the numpy lib to the code
+# import the numpy lib
 import numpy as np
 
 # create a matrix 
