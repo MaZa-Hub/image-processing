@@ -12,3 +12,29 @@ print(C)
 D = B - A
 
 print(D)
+
+E = B * 3
+
+print(E)
+
+F = A * B
+
+print(F)
+
+G = A @ B
+
+print(G)
+
+H = A.T
+
+print(H)
+
+I = A.max()
+J = A.min()
+K = A.mean()
+
+print(I)
+
+print(J)
+
+print(K)
